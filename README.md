@@ -24,4 +24,6 @@ relatable to DNA or the more fundamental forces of electromagnetism and gravity.
 The source code will be accessible and modifiable, but largely unintelligble.
 Students will need to analyze and experiment with the code to be able to
 modify it in desired ways. A deep understanding of the workings of the code
-could lead to effects that could seem almost magical.
+could lead to effects that could seem almost magical. Imagine being able to
+modify how gravity affects things, or building a device that can transport
+matter.
